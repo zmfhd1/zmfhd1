@@ -1,7 +1,6 @@
-### 안녕하세요 코봉이에요😃
+### 안녕하세요😃
 
 오늘부터 1일 1TIL을 실천하려고 합니다.
 
-좋은 습관이 될 수 있기를!
+<img src="./TIL.png" alt="TIL" style="zoom:25%;" />
 
-<img src="C:\Users\JS\Desktop\Git\profile\TIL.png" alt="TIL" style="zoom:10%;" />
